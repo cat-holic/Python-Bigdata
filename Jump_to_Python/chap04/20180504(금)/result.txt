@@ -1,2 +1,2 @@
 total = 790
-avarage = 79
+average = 79
