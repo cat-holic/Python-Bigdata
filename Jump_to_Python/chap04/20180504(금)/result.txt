@@ -1,2 +1,0 @@
-total = 790
-average = 79
