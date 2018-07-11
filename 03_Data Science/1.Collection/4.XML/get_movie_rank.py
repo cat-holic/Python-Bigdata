@@ -25,11 +25,11 @@ for item in updown_range:
 result = {'rank': range(1, 51), 'name': movie_name_list, 'range': movie_updown_range_list, 'up_down': movie_updown_list}
 
 result_table = DataFrame(result, columns=['rank', 'name', 'range', 'up_down'], index=result['rank'])
-result_table.to_csv("naver_rank.csv", encoding="cp949", mode='w', index=False)
+result_table.to_csv("naver_rank.csv", encoding="utf-8", mode='w', index=False, sep=",")
 
-test_table = DataFrame({"rank": "", "name": "", "range": "", "up_down": ""})
-test_table.
-print(result_table)
+# test_table = DataFrame({"rank": "", "name": "", "range": "", "up_down": ""})
+#
+# print(result_table)
 # print("--------------------영화이름 리스트----------------------")
 # # print(movie_name_list)
 # print("--------------------랭크 리스트----------------------")
