@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+    "python.autoComplete.addBrackets": true,
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "python.linting.pep8Enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    
+}

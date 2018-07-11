@@ -1,0 +1,98 @@
+[
+    {
+        "address": "대구광역시 동구 아양로 135",
+        "age": "29",
+        "name": "홍길동",
+        "student_ID": "ITT001",
+        "total_course_info": {
+            "learning_course_info": [
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                }
+            ],
+            "num_of_course_learned": "1"
+        }
+    },
+    {
+        "address": "대구광역시 동구 아양로 135",
+        "age": "29",
+        "name": "홍길동",
+        "student_ID": "ITT002",
+        "total_course_info": {
+            "learning_course_info": [
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                },
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                }
+            ],
+            "num_of_course_learned": "1"
+        }
+    },
+    {
+        "address": "대구광역시 동구 아양로 135",
+        "age": "29",
+        "name": "홍길동1",
+        "student_ID": "ITT003",
+        "total_course_info": {
+            "learning_course_info": [
+                {
+                    "close_date": "2018-09-05",
+                    "course_code": "IB171106",
+                    "course_name": "IOT 빅데이터 실무반",
+                    "open_date": "2017-11-06",
+                    "teacher": "김현구"
+                }
+            ],
+            "num_of_course_learned": "1"
+        }
+    }
+]
