@@ -1,8 +1,10 @@
 {
     "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
-    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.addBrackets": false,
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
+    "python.autoComplete.showAdvancedMembers": true,
     "python.linting.pep8Enabled": true,
     "python.linting.flake8Enabled": true,
+    "python.autoComplete.extraPaths": ["C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts"],
 }
