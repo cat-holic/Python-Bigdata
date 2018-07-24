@@ -13,21 +13,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3693a9c9-a5ca-4e6f-b28c-129a4d548a1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/285_4matplotlib_basic_scatter_predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/288_1matplotlib_basic_boxplot_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/288_matplotlib_basic_boxplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3_!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/295_seaborn_plots_step1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/4.Visualization/a1_tourist_statistics_service_128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/winequality-both.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/churn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/input_files/Housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/input_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/input_files/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers.xls" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/1.search_for_items_write_found.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/1.search_for_items_write_found.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/2.calculate_statistic_by_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/2.calculate_statistic_by_category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/3.parse_text_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/3.parse_text_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/args.txt" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/args.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers.xls" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/historical_files/suppliers.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/historical_files/suppliers.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers_2012.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/historical_files/suppliers_2012.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/input_files/customer_category_history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/input_files/customer_category_history.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/input_files/item_numbers_to_find.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/input_files/item_numbers_to_find.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/output_files/1output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/output_files/1output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/output_files/2output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/output_files/2output.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,103 +56,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="295_seaborn_plots_step1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_seaborn_plots_step1.py">
+      <file leaf-file-name="customer_churn_320_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step3_!.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3_!.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step3_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step4_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step4_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="295_Plot_seaborn_plots_step4_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a1_tourist_statistics_service_128.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/a1_tourist_statistics_service_128.py">
+      <file leaf-file-name="customer_churn_319_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer_churn_318_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="churn.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/churn.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="81" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -159,20 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/5.pandas_value_in_set.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/6.excel_value_matches_pattern.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/6.pandas_value_matches_pattern.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/7.excel_coulum_by_index.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/7.pandas_coulum_by_index.py.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/8.pandas_column_by_name.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/8.excel_column_by_name.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/9.pandas_value_meets_condition_all_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/9.excel_value_meets_condition_all_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/10.excel_column_by_name_alkl_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/10.pandas_column_by_name_alkl_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/11.excel_value_meets_condition_set_of_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/11.pandas_value_meets_condition_set_of_worksheets.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/12.excel_introspect_all_workbooks.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/13.excel_concat_data_from_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/13.pandas_concat_data_from_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/1.db_sqllte_test.py" />
@@ -210,6 +149,20 @@
         <option value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_3.py" />
         <option value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_4.py" />
         <option value="$PROJECT_DIR$/03_Data Science/4.Visualization/a1_tourist_statistics_service_128.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/wine_quality_7.2.1.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/wine_quality_7.2.2.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.1.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.2.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.4.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.6.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.7.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_1.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_2.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_2.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py" />
       </list>
     </option>
   </component>
@@ -227,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,13 +197,43 @@
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
-              <item name="4.Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap7.Statistic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap7.Statistic" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Wine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap7.Statistic" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Churn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap7.Statistic" type="462c0819:PsiDirectoryNode" />
+              <item name="input_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,18 +241,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\Chap7.Statistic\02.Churn" />
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\Chap7.Statistic" />
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\Chap7.Statistic\input_files\01.Wine" />
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\Applications_Chap5" />
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\input_files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bigdata\03_Data Science\3.Statistics\Chap7.Statistic\02.Churn" />
       <recent name="C:\bigdata\03_Data Science\4.Visualization" />
       <recent name="C:\bigdata\03_Data Science\2.Analysis\2.EXCEL" />
       <recent name="C:\bigdata\03_Data Science\2.Analysis\1.pandas_csv\csv_files" />
-      <recent name="C:\bigdata\03_Data Science\2.Analysis\1.pandas_csv" />
-      <recent name="C:\bigdata\03_Data Science\1.Collection\4.XML" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\bigdata\03_Data Science\3.Statistics\input_files" />
-      <recent name="C:\bigdata\03_Data Science\3.Statistics\historical_files" />
-      <recent name="C:\bigdata\03_Data Science\2.Analysis\3.Database\csv_files" />
-      <recent name="C:\bigdata\03_Data Science\2.Analysis\2.EXCEL" />
       <recent name="C:\bigdata\03_Data Science\2.Analysis\1.pandas_csv" />
     </key>
   </component>
@@ -284,8 +268,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a1_tourist_statistics_service_128">
-    <configuration name="295_Plot_seaborn_plots_step4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.customer_churn_320_1">
+    <configuration name="customer_churn_318_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,17 +277,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/4.Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="295_Plot_seaborn_plots_step4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_318_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,17 +295,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/4.Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="295_Plot_seaborn_plots_step4_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_319_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,17 +313,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/4.Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="295_Plot_seaborn_plots_step4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_319_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,17 +331,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/4.Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="a1_tourist_statistics_service_128" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_320_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,30 +349,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/4.Visualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/4.Visualization/a1_tourist_statistics_service_128.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.295_Plot_seaborn_plots_step4 (1)" />
-      <item itemvalue="Python.295_Plot_seaborn_plots_step4_2" />
-      <item itemvalue="Python.295_Plot_seaborn_plots_step4_3" />
-      <item itemvalue="Python.295_Plot_seaborn_plots_step4_4" />
-      <item itemvalue="Python.a1_tourist_statistics_service_128" />
+      <item itemvalue="Python.customer_churn_318_2" />
+      <item itemvalue="Python.customer_churn_318_3" />
+      <item itemvalue="Python.customer_churn_319_1" />
+      <item itemvalue="Python.customer_churn_319_2" />
+      <item itemvalue="Python.customer_churn_320_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.a1_tourist_statistics_service_128" />
-        <item itemvalue="Python.295_Plot_seaborn_plots_step4_4" />
-        <item itemvalue="Python.295_Plot_seaborn_plots_step4_3" />
-        <item itemvalue="Python.295_Plot_seaborn_plots_step4_2" />
-        <item itemvalue="Python.295_Plot_seaborn_plots_step4 (1)" />
+        <item itemvalue="Python.customer_churn_320_1" />
+        <item itemvalue="Python.customer_churn_319_2" />
+        <item itemvalue="Python.customer_churn_319_1" />
+        <item itemvalue="Python.customer_churn_318_3" />
+        <item itemvalue="Python.customer_churn_318_2" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532074435626</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="데이터 시각화">
+      <created>1532310096585</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532310096585</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="958" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22421876" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -494,6 +484,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32909784" />
+      <window_info anchor="right" x="0" y="0" width="274" height="758" id="Documentation" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -533,12 +524,12 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Data Science/3.Statistics/1.search_for_items_write_found.py</url>
+          <url>file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/1.search_for_items_write_found.py</url>
           <line>58</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_Data Science/3.Statistics/2.calculate_statistic_by_category.py</url>
+          <url>file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/2.calculate_statistic_by_category.py</url>
           <line>26</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
@@ -601,96 +592,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/csv_files/data_for_updating.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/1.db_sqllte_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/3.db_update_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/2.db_insert_rows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/4.db_delete_row.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/MySQLdb/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/MySQLdb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/csv_files/data_for_updating_mysql.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/_strptime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="351" column="22" selection-start-line="351" selection-start-column="22" selection-end-line="351" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/csv_files/supplier_data_for_mysql_database.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/argv_setting">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/output_files/output_file.cvs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/csv_files/supplier_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/5.db_mysql_write_to_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/4.db_mysql_load_from_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Data Science/2.Analysis/3.Database/6.db_mysql_delete_by_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -698,55 +599,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/3.parse_text_file.py">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/3.parse_text_file.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/historical_files/suppliers_2012.csv">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/historical_files/suppliers_2012.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/output_files/1output.csv">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/output_files/1output.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/args.txt">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/args.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/input_files/item_numbers_to_find.csv">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/input_files/item_numbers_to_find.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/1.search_for_items_write_found.py">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/1.search_for_items_write_found.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="68" column="40" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/input_files/customer_category_history.csv">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/input_files/customer_category_history.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/2.calculate_statistic_by_category.py">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/2.calculate_statistic_by_category.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/output_files/2output.csv">
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap5.Applications/output_files/2output.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -814,9 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <element signature="e#38#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,9 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -851,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_seaborn_plots_step1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="100">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -885,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="140">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -917,7 +806,7 @@
     <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -931,17 +820,149 @@
     <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/295_Plot_seaborn_plots_step4_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Data Science/4.Visualization/a1_tourist_statistics_service_128.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="614">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="48" column="29" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/winequality-both.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="6481" column="8" selection-start-line="6481" selection-start-column="8" selection-end-line="6481" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/churn.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="81" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="3918" column="18" selection-start-line="3918" selection-start-column="18" selection-end-line="3918" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
