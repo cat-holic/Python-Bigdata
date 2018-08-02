@@ -69,7 +69,7 @@ def main():
             yyyymm = "{0}{1:0>2}".format(str(year), str(month))
             nPagenum = 1
 
-            # [CODE 3]
+            # [CODE 3.Homenetwork]
             while True:
                 jsonData = getTourPointVisitor(yyyymm, sido, gungu, nPagenum, nItems)
 

@@ -10,7 +10,7 @@ lines = text.split("\r\n")
 for line in lines:
     malist = twitter.pos(line)
     for word in malist:
-        if word[1] == "Noun" : # 명사 확인하기 --- 3
+        if word[1] == "Noun" : # 명사 확인하기 --- 3.Homenetwork
             if not (word[0] in word_dic):
                 word_dic[word[0]] = 0
             word_dic[word[0]] += 1 # 카운트하기

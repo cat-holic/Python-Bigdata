@@ -25,7 +25,7 @@ def split_data_label(rows):
     return data, label
 
 
-# 정답률 구하기 ---3
+# 정답률 구하기 ---3.Homenetwork
 def calc_score(test, train):
     test_f, test_l = split_data_label(test)
     train_f, train_l = split_data_label(train)

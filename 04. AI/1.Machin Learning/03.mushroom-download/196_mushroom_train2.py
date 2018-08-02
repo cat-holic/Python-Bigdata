@@ -30,7 +30,7 @@ for row_index, row in mr.iterrows():
         exdata += d
     data.append(exdata)
 
-# 학습 전용 데이터와 테스트 전용 데이터로 나누기 --- 3
+# 학습 전용 데이터와 테스트 전용 데이터로 나누기 --- 3.Homenetwork
 data_train, data_test, label_train, label_test = train_test_split(data, label)
 # 데이터 학습시키기 --- 4
 clf = RandomForestClassifier()

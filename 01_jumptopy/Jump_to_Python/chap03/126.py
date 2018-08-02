@@ -6,7 +6,7 @@ while True:
     menu_choice = input("""<menu>
     1. 커피구매
     2. 커피잔량확인
-    3. 프로그램 종료
+    3.Homenetwork. 프로그램 종료
     메뉴를 선택하세요: """)
     
     if menu_choice == "1":
@@ -24,6 +24,6 @@ while True:
             break
     elif menu_choice == "2":
         print("현재 커피 잔량은 %d개 입니다." %coffee_Current_Number)
-    elif menu_choice == "3":
+    elif menu_choice == "3.Homenetwork":
         print("프로그램 종료를 선택하셨습니다. \n프로그램을 종료합니다")
         break

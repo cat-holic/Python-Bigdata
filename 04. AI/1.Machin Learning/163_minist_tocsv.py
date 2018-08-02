@@ -27,7 +27,7 @@ def to_csv(name, maxdata):
         sdata = list(map(str, bdata))
         csv_f.write(str(label) + ",")
         csv_f.write(",".join(sdata) + "\r\n")
-        # 잘 저장됐는지 이미지 파일로 저장해서 테스트 하기 --- 3
+        # 잘 저장됐는지 이미지 파일로 저장해서 테스트 하기 --- 3.Homenetwork
         if idx < 10:
             s = "P2 28 28 255\n"
             s += " ".join(sdata)

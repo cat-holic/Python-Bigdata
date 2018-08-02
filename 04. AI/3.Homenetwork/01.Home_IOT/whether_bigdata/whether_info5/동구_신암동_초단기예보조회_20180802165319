@@ -1,0 +1,202 @@
+[
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "LGT",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "LGT",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "PTY",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "PTY",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "RN1",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "RN1",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "SKY",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "SKY",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "T1H",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 35.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "T1H",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "REH",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 35,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "REH",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 35,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "UUU",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": -4.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "UUU",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": -4.6,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "VVV",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 0.6,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "VVV",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 0.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "VEC",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 98,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "VEC",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 96,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "WSD",
+        "fcstDate": 20180802,
+        "fcstTime": 1700,
+        "fcstValue": 4.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20180802,
+        "baseTime": 1630,
+        "category": "WSD",
+        "fcstDate": 20180802,
+        "fcstTime": 1800,
+        "fcstValue": 4.7,
+        "nx": 89,
+        "ny": 91
+    }
+]

@@ -20,7 +20,7 @@ test = load_csv("./01.mnist/t10k.csv")
 clf = svm.SVC()
 clf.fit(data["images"], data["labels"])
 
-# 예측하기 --- 3
+# 예측하기 --- 3.Homenetwork
 predict = clf.predict(test["images"])
 
 # 결과 확인하기

@@ -38,7 +38,7 @@ class BayesianFilter:
             self.category_dict[category] = 0
         self.category_dict[category] += 1
 
-    # 텍스트 학습하기 ---3
+    # 텍스트 학습하기 ---3.Homenetwork
     def fit(self, text, category):
         """텍스트 학습"""
         word_list = self.split(text)

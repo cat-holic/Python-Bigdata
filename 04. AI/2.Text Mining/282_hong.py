@@ -9,7 +9,7 @@ twitter = Twitter()
 results = []
 lines = text.split("\r\n")
 for line in lines:
-    # 형태소 분석하기 --- 3
+    # 형태소 분석하기 --- 3.Homenetwork
     # 단어의 기본형 사용
     malist = twitter.pos(line, norm=True, stem=True)
     r = []

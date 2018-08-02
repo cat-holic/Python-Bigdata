@@ -10,7 +10,7 @@ csv: DataFrame = pd.read_csv("iris.csv", sep=',', header=0)
 csv_data = csv.ix[:, :4]
 csv_label = csv.ix[:, 4]
 
-# 학습 전용 데이터와 테스트 전용 데이터로 나누기 -- 3
+# 학습 전용 데이터와 테스트 전용 데이터로 나누기 -- 3.Homenetwork
 #  학습 데이터와 검증 데이터 비율 : (2:1)
 train_data, test_data, train_label, test_label = train_test_split(csv_data, csv_label)
 

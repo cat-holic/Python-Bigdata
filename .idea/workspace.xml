@@ -13,47 +13,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3693a9c9-a5ca-4e6f-b28c-129a4d548a1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_322.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_323.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/03.Iris/iris_predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/04.Housing/housing_predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/04.Housing/housing_predict_best_choice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/171_lang_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/173_lang-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/184_bim-create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/185_bmi_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/187_bmi-plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/192_mushroom-download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/193_mushroom-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/196_mushroom_train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/150_xor_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/152_xor_train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/155_iris_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/157_iris_train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/161_mnist_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/163_minist_tocsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/165_mnist_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/199_cross_iris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/200_cross_iris2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/Test/and_or_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/275_konlpy_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/277_hong_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/282_hong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/284_hong_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/297_bayes_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/Hong.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/JPype1-0.6.3-cp36-cp36m-win_amd64.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/Basic_REST_Server_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WeatherData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/Homenetwork_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Stop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. AI/3.Homenetwork/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/mod3_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/mod3_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/input_files/Housing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/04.Housing/Housing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/input_files/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/03.Iris/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap03/124.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap03/124.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap03/126.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap03/126.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap04/20180504(금)/169_q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap04/20180504(금)/169_q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v5.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap07/298.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap07/298.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1.Collection/1.CSV Handle/csv_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/1.Collection/1.CSV Handle/csv_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1.Collection/2.Open API/서울특별시_관광지입장정보.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/1.Collection/2.Open API/서울특별시_관광지입장정보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1.Collection/3.JSon/jsonAddressList.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/1.Collection/3.JSon/jsonAddressList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/3.excel_parsing_and_write_keep_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/2.Analysis/2.EXCEL/3.excel_parsing_and_write_keep_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/03.Iris/iris_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/03.Iris/iris_predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/173_lang-plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/173_lang-plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/193_mushroom-train.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/193_mushroom-train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/196_mushroom_train2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/196_mushroom_train2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/155_iris_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/155_iris_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/157_iris_train2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/157_iris_train2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/163_minist_tocsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/163_minist_tocsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/165_mnist_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/165_mnist_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/199_cross_iris.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/199_cross_iris.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/1.Machin Learning/200_cross_iris2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/1.Machin Learning/200_cross_iris2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/2.Text Mining/277_hong_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/277_hong_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/2.Text Mining/282_hong.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/282_hong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,71 +58,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="echo_driver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/echo_driver.py">
+      <file leaf-file-name="WeatherData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WeatherData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="253">
+              <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Restaurant_v2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Restaurant_v1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Restaurant_v5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v5.py">
+      <file leaf-file-name="Homenetwork.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2040" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Restaurant_v3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v3.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="고객서빙현황로그.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/고객서빙현황로그.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="mod3_driver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/mod3_driver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bayes1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="72" column="49" lean-forward="true" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+            <state relative-caret-position="-1260">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="297_bayes_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/297_bayes_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -153,16 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.1.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.3.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.4.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/01.Wine/wine_quality_7.2.6.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_1.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_2.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_318_3.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_1.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_319_2.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_1.py" />
         <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_320_2.py" />
         <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_322.py" />
         <option value="$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/02.Churn/customer_churn_323.py" />
@@ -204,6 +143,16 @@
         <option value="$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/mod3_driver.py" />
         <option value="$PROJECT_DIR$/04. AI/2.Text Mining/297_bayes_test.py" />
         <option value="$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py" />
+        <option value="$PROJECT_DIR$/04. AI/2.Text Mining/Basic_REST_Server_v2.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/Homenetwork_test.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Test.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Stop.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1/test.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WhetherData.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/Homenetwork_Test.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/test.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WeatherData.py" />
+        <option value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py" />
       </list>
     </option>
   </component>
@@ -238,7 +187,31 @@
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="04. AI" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Text Mining" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Homenetwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04. AI" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Homenetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Home_IOT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04. AI" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Homenetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Home_IOT" type="462c0819:PsiDirectoryNode" />
+              <item name="whether_bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="04. AI" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Homenetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Home_IOT" type="462c0819:PsiDirectoryNode" />
+              <item name="whether_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="whether_info1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -278,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.297_bayes_test">
-    <configuration name="282_hong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Homenetwork">
+    <configuration name="Homenetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,17 +260,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/2.Text Mining/282_hong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="284_hong_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Thread_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,17 +278,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/3.Homenetwork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/2.Text Mining/284_hong_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="297_bayes_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WeatherData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,17 +296,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/2.Text Mining/297_bayes_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WeatherData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,17 +314,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\bigdata\04. AI\2.Text Mining\bayes1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bayes1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,30 +332,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/2.Text Mining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.282_hong" />
-      <item itemvalue="Python.284_hong_analysis" />
-      <item itemvalue="Python.bayes" />
-      <item itemvalue="Python.297_bayes_test" />
-      <item itemvalue="Python.bayes1" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.WeatherData" />
+      <item itemvalue="Python.Homenetwork" />
+      <item itemvalue="Python.Thread_Test" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.297_bayes_test" />
-        <item itemvalue="Python.bayes1" />
-        <item itemvalue="Python.bayes" />
-        <item itemvalue="Python.284_hong_analysis" />
-        <item itemvalue="Python.282_hong" />
+        <item itemvalue="Python.Homenetwork" />
+        <item itemvalue="Python.WeatherData" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Thread_Test" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -481,18 +454,26 @@
       <option name="project" value="LOCAL" />
       <updated>1532418241876</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="한글 파싱 및 분석">
+      <created>1533086732446</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1533086732446</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="958" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22421876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22421876" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015625" side_tool="true" weight="0.30011863" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32858837" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" weight="0.45788848" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" visible="true" weight="0.45788848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32858837" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -505,7 +486,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32858837" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -542,7 +522,8 @@
     <MESSAGE value="분석" />
     <MESSAGE value="데이터 시각화" />
     <MESSAGE value="데이터 예측" />
-    <option name="LAST_COMMIT_MESSAGE" value="데이터 예측" />
+    <MESSAGE value="한글 파싱 및 분석" />
+    <option name="LAST_COMMIT_MESSAGE" value="한글 파싱 및 분석" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -582,6 +563,11 @@
           <line>21</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -593,16 +579,22 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="print(res1." language="Python" />
+        <watch expression="item['value']" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>item['value']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>print(res1.</expression-string>
         <language-id>Python</language-id>
@@ -641,176 +633,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/184_bim-create.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/Test/and_or_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/152_xor_train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/150_xor_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/157_iris_train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/165_mnist_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/155_iris_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/161_mnist_download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/04.Housing/housing_predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/3.Statistics/Chap7.Statistic/03.Iris/iris_predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/185_bmi_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/bmi.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/187_bmi-plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/192_mushroom-download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/mushroom.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/193_mushroom-train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/03.mushroom-download/196_mushroom_train2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/171_lang_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/bmi-test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/02.lang_training/173_lang-plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/iris.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2900">
-          <caret line="145" column="27" selection-start-line="145" selection-start-column="27" selection-end-line="145" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/199_cross_iris.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. AI/1.Machin Learning/200_cross_iris2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/275_konlpy_basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -902,11 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/echo_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="40">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,9 +739,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2040" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/01_jumptopy/Jump_to_Python/chap05/20180511(금)/Restaurant_v1.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -943,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/bayes1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="72" column="49" lean-forward="true" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+        <state relative-caret-position="1420">
+          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -954,7 +771,176 @@
     <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/297_bayes_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1.Collection/1.CSV Handle/min_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1.Collection/1.CSV Handle/csv_basic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1.Collection/1.CSV Handle/min_test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1.Collection/4.XML/get_movie_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/2.Text Mining/Basic_REST_Server_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ctypes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4393">
+          <caret line="435" column="4" selection-start-line="435" selection-start-column="4" selection-end-line="435" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1936096400/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="5246" column="8" selection-start-line="5246" selection-start-column="8" selection-end-line="5246" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1/동구_신암동_초단기예보조회_20180802133806">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/Homenetwork_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1936096400/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="164" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/whether_bigdata/whether_info1/동구_신암동_초단기예보조회_20180802164500">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/Thread_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="539" selection-start-line="539" selection-end-line="539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="940" selection-start-line="940" selection-end-line="940" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/WeatherData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. AI/3.Homenetwork/01.Home_IOT/Homenetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -131,7 +131,7 @@ def main():
     print("           << JSON기반 학생 정보 관리 프로그램 >>")
     print("1.학생 정보입력\n" +
           "2.학생 정보조회\n" +
-          "3.학생 정보수정\n" +
+          "3.Homenetwork.학생 정보수정\n" +
           "4.학생 정보삭제\n" +
           "5.프로그램 종료")
     menu_input = input("메뉴를 선택하세요 : ")
@@ -141,7 +141,7 @@ def main():
         print("아래 메뉴를 선택하세요\n"
               "1.전체학생조회\n"
               "2.ID 검색\n"
-              "3.이름 검색\n"
+              "3.Homenetwork.이름 검색\n"
               "4.나이 검색\n"
               "5.주소 검색\n"
               "6.과거 수강 횟수 검색\n"
@@ -195,7 +195,7 @@ def main():
             if none_element_chk:
                 print("검색 결과가 없습니다.")
 
-        if find_menu_input == "3":
+        if find_menu_input == "3.Homenetwork":
             search_menu = "name"
             print_search_student_result(student_json_data, search_keyword, search_menu)
             # none_element_chk = True

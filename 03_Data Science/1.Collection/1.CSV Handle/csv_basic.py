@@ -88,7 +88,7 @@ with open("Demographic_Statistics_By_Zip_Code.csv", newline='') as infile:
     data = list(csv.reader(infile))
 
 while True:
-    selectNum = int(input("0.종료 1.행 2.열 3.총합 4.평균 5.최대값 6.최소값 7.편차 8.표준편차 9.분산 10.오름차순 정렬 11.내림차순 정렬"
+    selectNum = int(input("0.종료 1.행 2.열 3.Homenetwork.총합 4.평균 5.최대값 6.최소값 7.편차 8.표준편차 9.분산 10.오름차순 정렬 11.내림차순 정렬"
                           "\n메뉴를 선택하세요: "))
     if selectNum == 0:
         exit_csv_basic()

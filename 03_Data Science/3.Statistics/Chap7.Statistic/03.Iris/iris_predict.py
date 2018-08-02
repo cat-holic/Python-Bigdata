@@ -6,8 +6,8 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
 
 # sepal.length	sepal.width	petal.length	petal.width	variety
-# 5.1	3.5	1.4	0.2	Setosa
-# 7	    3.2	4.7	1.4	Versicolor
+# 5.1	3.Homenetwork.5	1.4	0.2	Setosa
+# 7	    3.Homenetwork.2	4.7	1.4	Versicolor
 
 print("빅데이터 로드중..")
 iris = pd.read_csv("iris.csv", header=0, sep=",")

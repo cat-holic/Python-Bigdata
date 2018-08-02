@@ -49,7 +49,7 @@ tstat, pvalue, df = sm.stats.ttest_ind(red_wine, white_wine)
 print('tstat : %.3f pvalue: %.4f' % (tstat, pvalue))
 
 print("\n" + '=' * 80)
-print("7.2.3 상관관계 분석")
+print("7.2.3.Homenetwork 상관관계 분석")
 print("모든 변수 쌍 사이의 상관계수 구하기")
 print(wine.corr())
 

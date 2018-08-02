@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import json
 
-# 알파벳 출현 빈도 데이터 읽어 들이기 ---3
+# 알파벳 출현 빈도 데이터 읽어 들이기 ---3.Homenetwork
 with open("./lang_files/lang/freq.json", "r", encoding="utf-8") as fp:
     freq = json.load(fp)
 
@@ -16,7 +16,7 @@ for i, lbl in enumerate(freq[0]["labels"]):
     for idx, v in enumerate(fq):
         lang_dic[lbl][idx] = (lang_dic[lbl][idx] + v) / 2
 
-# Pandas의 DataFrame에 데이터 넣기 --- 3
+# Pandas의 DataFrame에 데이터 넣기 --- 3.Homenetwork
 asclist = [[chr(n) for n in range(97, 97 + 26)]]
 df = pd.DataFrame(lang_dic, index = asclist)
 # 그래프 그리기 --- 4

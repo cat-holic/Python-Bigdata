@@ -18,7 +18,7 @@ del csv[0]
 # 데이터 셔플하기(섞기) --- 2
 random.shuffle(csv)
 
-# 학습 전용 데이터와 테스트 전용 데이터 분할하기(2:1 비율) --- 3
+# 학습 전용 데이터와 테스트 전용 데이터 분할하기(2:1 비율) --- 3.Homenetwork
 total_len = len(csv)
 train_len = int(total_len * 2 / 3)
 train_data = []
